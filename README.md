@@ -1,1 +1,5 @@
-Once upon a time there was a very ß
+#Characters
+ - Mark (the lonely boy)
+ - Joey (the smart boy)
+ 
+
